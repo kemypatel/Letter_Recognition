@@ -4,13 +4,13 @@ Letter Recognition from a Photo with Machine Learning in Python.
 
 Libraries used:
 
-Numpy
-Pandas
-Matplotlib
-Seaborn
+Numpy,
+Pandas,
+Matplotlib,
+Seaborn.
 
 Classification Algorithms used here:
 
-Logistic Regression
-SVM
-Random Forest
+Logistic Regression,
+SVM,
+Random Forest.
